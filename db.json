@@ -1,0 +1,1041 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Silahlar",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Zak Kregger",
+      "actors": ["Coş Brolin", "Culiya Qarner"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park"],
+      "description": "Bütün uşaqlar bir sinifdən, bir uşaq istisna olmaqla, eyni anda izsiz yoxa çıxır. Yerli sakinlər və ailələr onların yoxa çıxmasına nə və ya kim səbəb olduğunu anlamağa çalışırlar.",
+      "genre": "Dəhşət",
+      "duration": "02:10:00",
+      "language": ["English", "Russian", "Turkish"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "07.08.2025",
+      "ageLimit": "18+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movies_weapons.webp",
+      "trailerUrl": "https://youtu.be/bTgvvU65RHE",
+      "dates": [
+        "12.08.2025",
+        "03.08.2025",
+        "27.08.2025",
+        "14.08.2025",
+        "08.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Silahlar",
+          "time": "16:00",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Silahlar",
+          "time": "16:10",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Silahlar",
+          "time": "16:20",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Silahlar",
+          "time": "17:00",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Silahlar",
+          "time": "17:00",
+          "cinema": "Metro Park",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Silahlar",
+          "time": "18:20",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "ENG",
+          "sub": null
+        },
+        {
+          "title": "Silahlar",
+          "time": "18:30",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Silahlar",
+          "time": "18:40",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Silahlar",
+          "time": "19:20",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Silahlar",
+          "time": "19:20",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Silahlar",
+          "time": "19:30",
+          "cinema": "Park Bulvar",
+          "hall": "VIP Hall",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Silahlar",
+          "time": "20:40",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": "AZE"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Fantastik Dördlük: İlk addımlar",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Mett Şekman",
+      "actors": ["Pedro Paskal", "Vanessa Kirbi", "Cozeph Kuinn"],
+      "inCinema": ["Park Bulvar", "Flame Towers"],
+      "description": "Riyad Riçards, Ben Grimm, Sü Storm və onun qardaşı Conni Yeri acgöz kosmik tanrı Galaktus və onun yoldaşı Gümüş Sörfçüdən qorumağa çalışmalıdırlar.",
+      "genre": ["Macəra", "Fantastika", "Döyüş"],
+      "duration": "02:00:00",
+      "language": ["English", "Russian", "Turkish"],
+      "subtitles": null,
+      "releaseDate": "24.07.2025",
+      "ageLimit": "16+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movie_fantastic_four.webp",
+      "trailerUrl": "https://youtu.be/SCjcDBg_0Ds",
+      "dates": [
+        "21.08.2025",
+        "02.08.2025",
+        "19.08.2025",
+        "04.08.2025",
+        "30.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "15:40",
+          "cinema": "Flame Towers",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "15:50",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "16:30",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "16:40",
+          "cinema": "Park Bulvar",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "17:40",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "17:50",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "ENG",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "18:00",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "18:40",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 5",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "18:50",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "19:50",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "22:30",
+          "cinema": "Park Bulvar",
+          "hall": "VIP Hall",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Fantastik Dördlük: İlk addımlar",
+          "time": "23:10",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Çılpaq Silah",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Akiva Şaffer",
+      "actors": [
+        "Liam Nison",
+        "Pol Volter Hauzer",
+        "Pamela Anderson",
+        "Kevin Dürant"
+      ],
+      "inCinema": "Sevinc Mall",
+      "description": "Yalnız bir nəfər xüsusi bacarıq dəstinə malikdir ki, polis dəstəsinə rəhbərlik etsin və dünyanı xilas etsin.",
+      "genre": ["Komediya", "Döyüş"],
+      "duration": "01:30:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "31.07.2025",
+      "ageLimit": "16+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movie_the_naked_gun.webp",
+      "trailerUrl": "https://youtu.be/Mv4bAQ9PRWU",
+      "dates": [
+        "16.08.2025",
+        "05.08.2025",
+        "12.08.2025",
+        "25.08.2025",
+        "29.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Çılpaq Silah",
+          "time": "16:00",
+          "cinema": "Sevinc Mall",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+
+        {
+          "title": "Çılpaq Silah",
+          "time": "19:30",
+          "cinema": "Sevinc Mall",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": "AZE"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Pis Uşaqlar 2",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": ["Pyer Perifel", "JP Sans"],
+      "actors": ["Sem Rokuell", "Mark Meron"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Pis oğlanlar yeni həyata uyğunlaşmağa çalışırlar, lakin onlardan cinayət həyatına qayıdaraq son bir tapşırığı yerinə yetirmələri xahiş olunur.",
+      "genre": ["Macəra", "Döyüş", "Cizgi filmi", "Ailəvi"],
+      "duration": "01:50:00",
+      "language": ["English", "Russian", "Turkish"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "31.07.2025",
+      "ageLimit": "12+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movies_the_bad_guys_2.webp",
+      "trailerUrl": "https://youtu.be/zwz00_HZkFQ",
+      "dates": [
+        "07.08.2025",
+        "10.08.2025",
+        "14.08.2025",
+        "18.08.2025",
+        "23.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "15:50",
+          "cinema": "Flame Towers",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "16:10",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "17:00",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "17:10",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "17:30",
+          "cinema": "Sevinc Mall",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "17:50",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "ENG",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "18:00",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "18:10",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "19:00",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "19:50",
+          "cinema": "Sevinc Mall",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "20:10",
+          "cinema": "Park Bulvar",
+          "hall": "VIP Hall",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Pis Uşaqlar 2",
+          "time": "22:10",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Həyəcanlı Cümə 2",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Nişa Qanatra",
+      "actors": ["Ceymi Li Körtis", "Lindsi Lohan"],
+      "inCinema": ["Park Bulvar", "Metro Park"],
+      "description": "O gündən illər keçib ki, Anna və anası Tess möcüzəvi bədən dəyişməsindən sonra münasibətlərini düzəltmişdilər. İndi Anna­nın öz doğma qızı və gələcək ögey qızı var, amma onlar bir-biri ilə dil tapa bilmirlər. Anna və Tess başa düşürlər ki, möcüzə yenidən baş verə bilər.",
+      "genre": ["Komediya", "Ailəvi"],
+      "duration": "01:50:00",
+      "language": ["English", "Russian"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "07.08.2025",
+      "ageLimit": "14+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movies_freakier_friday.webp",
+      "trailerUrl": "https://youtu.be/fIE0gJnJ00w",
+      "dates": [
+        "09.08.2025",
+        "13.08.2025",
+        "24.08.2025",
+        "26.08.2025",
+        "31.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "17:00",
+          "cinema": "Metro Park",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "17:10",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "17:30",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "19:00",
+          "cinema": "Park Bulvar",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "19:30",
+          "cinema": "Metro Park",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "17:50",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 5",
+          "lang": "ENG",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "21:00",
+          "cinema": "Park Bulvar",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "21:10",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "21:30",
+          "cinema": "Park Bulvar",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "23:00",
+          "cinema": "Metro Park",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Həyəcanlı Cümə 2",
+          "time": "23:10",
+          "cinema": "Park Bulvar",
+          "hall": "VIP Hall",
+          "lang": "RUS",
+          "sub": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Supermen",
+      "year": 2024,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Ceyms Gann",
+      "actors": ["Devid Korensvet", "Neytan Fillion"],
+      "inCinema": ["Flame Towers", "Metro Park"],
+      "description": "Krypton planetində doğulmuş, amma Yer kürəsində sadə bir ailənin himayəsində böyümüş Klark Kent, insan həyatı ilə Krypton irsinin yaratdığı Supermen olmağı - yaxşılığın və ədalətin təcəssümü olmağı arasında tarazlıq tapmağa çalışır.",
+      "genre": ["Fantastika", "Döyüş"],
+      "duration": "02:10:00",
+      "language": ["English", "Russian", "Turkish"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "10.07.2025",
+      "ageLimit": "16+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movie_superman.webp",
+      "trailerUrl": "https://youtu.be/tNioP6vFU4I",
+      "dates": [
+        "11.08.2025",
+        "17.08.2025",
+        "20.08.2025",
+        "28.08.2025",
+        "15.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Supermen",
+          "time": "16:20",
+          "cinema": "Flame Towers",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Supermen",
+          "time": "18:40",
+          "cinema": "Metro Park",
+          "hall": "Zal: 1",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Supermen",
+          "time": "20:50",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Supermen",
+          "time": "21:00",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        },
+
+        {
+          "title": "Supermen",
+          "time": "21:20",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "ENG",
+          "sub": null
+        },
+        {
+          "title": "Supermen",
+          "time": "23:20",
+          "cinema": "Metro Park",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Supermen",
+          "time": "23:30",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "TUR",
+          "sub": null
+        },
+        {
+          "title": "Supermen",
+          "time": "23:40",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Yura Dövrü Dünyası: Dirçəliş",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Qaret Edvards",
+      "actors": ["Conatan Beyli", "Skarlett Yohansson", "Maherşala Ali"],
+      "inCinema": ["Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Bir qrup tədqiqatçı ekvatorial bölgələrin çətin əldə edilən ərazilərinə səyahət edir, məqsədləri — üç nəhəng qədim canlıların DNT-sini əldə etməkdir. Onların məqsədi — tibb sahəsində inqilab yaratmaq və bu, bəşəriyyətin gələcəyini dəyişə bilər.",
+      "genre": ["Fantastika", "Döyüş", "Fantastika", "Trillerlər"],
+      "duration": "02:20:00",
+      "language": ["English", "Russian", "Turkish"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "03.07.2025",
+      "ageLimit": "16+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movie_jurassic_world.webp",
+      "trailerUrl": "https://youtu.be/xfKZnrcUWKY",
+      "dates": [
+        "06.08.2025",
+        "01.08.2025",
+        "08.08.2025",
+        "19.08.2025",
+        "22.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Yura Dövrü Dünyası: Dirçəliş",
+          "time": "21:00",
+          "cinema": "Flame Towers",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Yura Dövrü Dünyası: Dirçəliş",
+          "time": "21:10",
+          "cinema": "Sevinc Mall",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": null
+        },
+        {
+          "title": "Yura Dövrü Dünyası: Dirçəliş",
+          "time": "21:30",
+          "cinema": "Metro Park",
+          "hall": "Zal: 5",
+          "lang": "RUS",
+          "sub": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Onu ölülərdən qaytar",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": ["Deni Filippo", "Maykl Filippo"],
+      "actors": ["Salli Xoukinqs", "Billi Berret", "Olqa Miller"],
+      "inCinema": ["Flame Towers", "Metro Park"],
+      "description": "Yaxın zamanda valideynlərini itirmiş qardaş və bacı, qayğıkeş bir qadınla yeni bir ailə tapır. Lakin, onun təcrid olunmuş evinə köçdükdən sonra, onların ögey analarının sevgisinin arxasında qorxulu bir şeyin gizləndiyini şübhələnməyə başlayırlar.",
+      "genre": "Dəhşət",
+      "duration": "01:40:00",
+      "language": ["English", "Russian", "Turkish"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "31.07.2025",
+      "ageLimit": "18+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movie_bring_her_Back.webp",
+      "trailerUrl": "https://youtu.be/vyXBfKVEgyk",
+      "dates": [
+        "05.08.2025",
+        "09.08.2025",
+        "16.08.2025",
+        "27.08.2025",
+        "30.08.2025"
+      ],
+      "times": [
+        {
+          "title": "Onu ölülərdən qaytar",
+          "time": "17:40",
+          "cinema": "Flame Towers",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "Onu ölülərdən qaytar",
+          "time": "17:50",
+          "cinema": "Metro Park",
+          "hall": "Zal: 1",
+          "lang": "RUS",
+          "sub": null
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "F1",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Cozeff Kosinski",
+      "actors": ["Bred Pitt", "Simon Eşli", "Xavier Bardem"],
+      "inCinema": "Flame Towers",
+      "description": "«Formula-1» ulduzu Sonni Heyz 1990-cı illərdə baş vermiş ciddi qəza nəticəsində idmandan ayrılıb. Bir neçə il sonra ona APXGP yarış komandası sahibindən ikinci pilot və wunderkind Coşua Pirs üçün mentor olaraq komandaya qoşulmaq təklifi gəlir.",
+      "genre": "Drama",
+      "duration": "02:40:00",
+      "language": ["Russian", "Turkish"],
+      "subtitles": null,
+      "releaseDate": "26.06.2025",
+      "ageLimit": "16+",
+      "inVision": true,
+      "posterUrl": "/src/assets/images/movies/movie_f1.webp",
+      "trailerUrl": "https://youtu.be/TOWNc5IgoIIk",
+      "dates": [
+        "04.08.2025",
+        "14.08.2025",
+        "23.08.2025",
+        "25.08.2025",
+        "29.08.2025"
+      ],
+      "times": [
+        {
+          "title": "F1",
+          "time": "21:50",
+          "cinema": "Flame Towers",
+          "hall": "Zal: Saloglu",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+
+        {
+          "title": "F1",
+          "time": "23:40",
+          "cinema": "Flame Towers",
+          "hall": "IMAX",
+          "lang": "RUS",
+          "sub": "AZE"
+        },
+        {
+          "title": "F1",
+          "time": "23:55",
+          "cinema": "Flame Towers",
+          "hall": "Zal: 4",
+          "lang": "RUS",
+          "sub": "AZE"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Qorxunun Zirvəsində",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Hyuqo Keyzer",
+      "actors": ["Ella Balinska", "Styuart Qrem"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park"],
+      "description": "Bacısının müalicəsini ödəmək üçün mühəndis-geoloq Ebbi Brennan uzaq bir uran mədənində işləməyi qəbul edir. O, qəribə bir meteorit tapdıqda, ekspedisiya yarımçıq qalır — vertolyot qəzaya uğrayır. Ebbi meşələrin, qayaların və qarlı dağların arasında tək qalır. Onun xarici dünya ilə yeganə əlaqəsi — özünü Con kimi təqdim edən bir kişinin radiodakı səsidir. O, Ebbi’ni xilas edə biləcəyini iddia edir.",
+      "genre": ["Drama", "Fantastika", "Trillerlər"],
+      "duration": "01:50:00",
+      "language": ["Russian", "Turkish"],
+      "subtitles": "Azerbaijani",
+      "releaseDate": "14.08.2025",
+      "ageLimit": "16+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_the_occupant.webp",
+      "trailerUrl": "https://youtu.be/EaS1BuJirH8",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 11,
+      "title": "Heç kim 2",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Timo Tyadzhanto",
+      "actors": ["Bob Odenkörk", "Kristofer Lloyd", "Konni Nilsen"],
+      "inCinema": "Flame Towers",
+      "description": "Hatch Mansell, şəhər kənarında yaşayan ailəli adam və keçmiş peşəkar qatil, evində baş verən hücumu önlədikdən sonra təhlükəli keçmişindən qaça bilmir. Tədricən yalnız Hatch’in deyil, həm də həyat yoldaşı Becky’nin sirləri açılır.",
+      "genre": ["Döyüş", "Komediya", "Trillerlər", "Kriminal"],
+      "duration": "01:40:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "14.08.2025",
+      "ageLimit": "18+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_nobody_2.webp",
+      "trailerUrl": "https://youtu.be/rk1wYLBgiHc",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 12,
+      "title": "Birlikdə",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Maykl Şenks",
+      "actors": ["Deyv Franko", "Elison Bri"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Sevinc Mall"],
+      "description": "Gənc cütlük sakitlik axtarışında şəhərdən kənarda yerləşən səssiz bir evə köçür, lakin orada bədii-aləmlə bağlı problemlərlə üzləşirlər.",
+      "genre": "Dəhşət",
+      "duration": "01:42:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "21.08.2025",
+      "ageLimit": "18+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_together.webp",
+      "trailerUrl": "https://youtu.be/cg5t_XOFtMk",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 13,
+      "title": "Dispetçer",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Devid Makkenzi",
+      "actors": ["Lili Ceyms", "Sem Vortinqton", "Riz Ahmed"],
+      "inCinema": ["Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Korrupsiyalaşmış korporasiyalar və onlara təhdid edən insanlar arasında sərfəli əməliyyatlar aparan broker, yeni müştəri onun qorunmasını istəyəndə öz qaydalarını pozur ki, sağ qalmaq üçün kömək alsın. A broker who deals profitable deals between corrupt corporations and the people threatening them breaks his own rules when a new client asks for protection to stay alive.",
+      "genre": ["Döyüş", "Trillerlər"],
+      "duration": "01:52:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "21.08.2025",
+      "ageLimit": "18+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movies_relay.webp",
+      "trailerUrl": "https://youtu.be/uqXwpyZaZoo",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 14,
+      "title": "Məskən",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Ceyms DeMonako",
+      "actors": ["Pit Devidson", "Con Glover", "İten Filippis"],
+      "inCinema": ["Park Bulvar", "Metro Park", "Sevinc Mall"],
+      "description": "Maks qocalar evində gözətçi kimi işə düzəlir. Elə də çətin görünməyən bu işdə o, çox qəribə şeylərlə qarşılaşır. Şübhələri artdıqca, onun həyatına başa gələ biləcək dəhşətli bir sirri açır.",
+      "genre": ["Dəhşət", "Trillerlər"],
+      "duration": "01:37:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "28.08.2025",
+      "ageLimit": "18+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_the_home.webp",
+      "trailerUrl": "https://youtu.be/22iriTHWRIc",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 15,
+      "title": "Rouzun Həyat Yoldaşları",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Cey Rauch",
+      "actors": ["Benedikt Kemberbeç", "Oliviya Kolman", "Ellison Cënni"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Aivi və Teonun nümunəvi evlilikləri və uğurlu karyeraları yalnız zahiri görünüşdür. Teonun karyerası dağılır, Aivinin isə əksinə sürətlə yüksəlir; bu, onların arasında dərin inciklikləri ortaya çıxaran amansız rəqabətə səbəb olur.",
+      "genre": "Komediya",
+      "duration": "01:50:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "28.08.2025",
+      "ageLimit": "18+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_the_roses.webp",
+      "trailerUrl": "https://youtu.be/8FubR-lLfXo",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 16,
+      "title": "Heyvan Qatarı",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": ["Benua Daffi", "Jan-Kristian Tassi"],
+      "actors": ["Damyen Ferrett", "Erve Jolli"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Sürətlə gedən qatarda tələyə düşmüş ev heyvanları qisas almaq istəyən porsuq Hansın planlarını pozmağa çalışmalıdırlar. Bu tüklü girovların yeganə ümidi — ağıllı və kələkbaz tülkü, onları xilas etmək üçün hər şeyə hazır olan Şahindir.",
+      "genre": ["Komediya", "Cizgi filmi", "Döyüş"],
+      "duration": "01:39:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "11.09.2025",
+      "ageLimit": "12+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_falcon_express.webp",
+      "trailerUrl": "https://youtu.be/3X7fdTCQqHE",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 17,
+      "title": "Demon Slayer: Infinity Castle",
+      "year": 2025,
+      "country": "Yaponiya",
+      "director": "Haruo Sotodzaki",
+      "actors": ["Natsuki Hanae", "Saori Hayami"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Tandzironun bütün ailəsini iblislər qətlə yetirir və onun kiçik bacısı Nedzuko iblisa çevrilir. Tandziro İblis Qırıcılar Korpusuna qoşulur. Döyüşçülər məşq edərkən və qarşıdan gələn döyüşə hazırlaşarkən, Korpusun rəhbərinin malikanəsində iblislərin ulu atası və Tandzironun ailəsinin qatili Mudzan Kibutsudzi peyda olur. İblis qırıcılar liderə kömək etməyə tələsirlər, lakin Mudzan Kibutsudzi tərəfindən İblislərin qalası olan Sonsuzluq Qalasına köçürülürlər.",
+      "genre": ["Fantastika", "Cizgi filmi", "Döyüş"],
+      "duration": "02:30:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "11.09.2025",
+      "ageLimit": "16+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_demon_slayer.webp",
+      "trailerUrl": "https://youtu.be/x7uLutVRBfI",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 18,
+      "title": "Böyük, Cəsur və Gözəl Səyahət",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Koqonada",
+      "actors": ["Kolin Farrell", "Margo Robbi"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Sara və Devid ortaq dostlarının toyunda tanış deyildilər. Tezliklə onlar böyük, cəsur və gözəl bir səyahətə çıxırlar, bu müddətdə keçmişlərinin vacib anlarını yenidən yaşamalıdırlar. Bu, onlara indiki vəziyyətlərinə necə gəldiklərini anlamağa kömək edir və bəlkə də gələcəyi dəyişmək üçün bir şans verir.",
+      "genre": ["Fantastika", "Cizgi filmi", "Drama", "Macəra"],
+      "duration": "02:00:00",
+      "language": "Russian",
+      "subtitles": "Azerbaijani",
+      "releaseDate": "18.09.2025",
+      "ageLimit": "16+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_a_big_bold_beautiful_journey.webp",
+      "trailerUrl": "https://youtu.be/FmJaMBUUgXw",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 19,
+      "title": "Tron: Ares",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Yoakim Rönning",
+      "actors": ["Cared Leto", "Greta Li", "Evan Piters"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Kiber kainat haqqında hekayənin davamı, burada real hissləri olan virtual insanlar yaşayır, diktatura hökm sürür və qaladiator döyüşləri keçirilir. Köhnə rəqibin qayıdışı oyunu yeni qaydalarla başlatır.",
+      "genre": ["Döyüş", "Fantastika", "Macəra"],
+      "duration": "02:00:00",
+      "language": "Russian",
+      "subtitles": null,
+      "releaseDate": "18.09.2025",
+      "ageLimit": "16+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_tron.webp",
+      "trailerUrl": "https://youtu.be/hiDrv3Eul2k",
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 20,
+      "title": "Mortal Kombat II",
+      "year": 2023,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Saymon Makkuoyd",
+      "actors": ["Martin Ford", "Karl Urban", "Hiroyuki Sanada"],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": null,
+      "genre": ["Döyüş", "Fantastika"],
+      "duration": "02:00:00",
+      "language": "Russian",
+      "subtitles": null,
+      "releaseDate": "22.10.2025",
+      "ageLimit": "18+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_mortal_kombat_2.webp",
+      "trailerUrl": null,
+      "dates": null,
+      "times": null
+    },
+    {
+      "id": 21,
+      "title": "Avatar: Alov və Kül",
+      "year": 2025,
+      "country": "Amerika Birləşmiş Ştatları",
+      "director": "Ceyms Kemeron",
+      "actors": [
+        "Keyt Vinslet",
+        "Zoyi Saldana",
+        "Stiven Lenq",
+        "Sigurni Uiver"
+      ],
+      "inCinema": ["Park Bulvar", "Flame Towers", "Metro Park", "Sevinc Mall"],
+      "description": "Ceyk Salli və Neytiri Alfa-Sentavr sisteminin digər planetlərinə səyahət edirlər.",
+      "genre": ["Döyüş", "Fantastika", "Macəra", "Trillerlər"],
+      "duration": "02:00:00",
+      "language": "Russian",
+      "subtitles": null,
+      "releaseDate": "17.12.2025",
+      "ageLimit": "16+",
+      "inVision": false,
+      "posterUrl": "/src/assets/images/movies/movie_avatar.webp",
+      "trailerUrl": null,
+      "dates": null,
+      "times": null
+    }
+  ]
+}
