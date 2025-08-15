@@ -89,12 +89,21 @@ import banner_superman from "../assets/images/banners/banner_superman.webp";
 import banner_yura_dovru from "../assets/images/banners/banner_yura__dovru.webp";
 
 export const BANNERS = [
-  { src: banner_f1, alt: "f1" },
-  { src: banner_heyecanli_cume, alt: "heyecanli_cume" },
-  { src: banner_draqon, alt: "draqon" },
-  { src: banner_fantastic_dortluk, alt: "fantastic_dortluk" },
-  { src: banner_lilo_stich, alt: "lilo_stich" },
-  { src: banner_smurfs, alt: "smurfs" },
-  { src: banner_superman, alt: "superman" },
-  { src: banner_yura_dovru, alt: "yura_dovru" },
+  { src: banner_f1, alt: "f1", slug: "f1" },
+  {
+    src: banner_heyecanli_cume,
+    alt: "heyecanli_cume",
+    slug: "freakier-friday-2",
+  },
+  {
+    src: banner_fantastic_dortluk,
+    alt: "fantastic_dortluk",
+    slug: "the-fantastic-four-first-steps",
+  },
+  { src: banner_superman, alt: "superman", slug: "superman" },
+  {
+    src: banner_yura_dovru,
+    alt: "yura_dovru",
+    slug: "jurassic-world-resurgence",
+  },
 ];

@@ -30,7 +30,7 @@ const Carousel = () => {
         />
         {BANNERS.map((banner, index) => (
           <SwiperSlide key={index}>
-            <Link to="/">
+            <Link to={`/movies-details/${banner.slug}`}>
               <img
                 className="w-full h-full object-cover"
                 src={banner.src}
