@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Silahlar",
+      "slug": "weapons",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Zak Kregger",
@@ -17,7 +18,7 @@
       "ageLimit": "18+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movies_weapons.webp",
-      "trailerUrl": "https://youtu.be/bTgvvU65RHE",
+      "trailerUrl": "https://www.youtube.com/embed/bTgvvU65RHE",
       "dates": [
         "12.08.2025",
         "03.08.2025",
@@ -127,6 +128,7 @@
     {
       "id": 2,
       "title": "Fantastik Dördlük: İlk addımlar",
+      "slug": "the-fantastic-four-first-steps",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Mett Şekman",
@@ -141,7 +143,7 @@
       "ageLimit": "16+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movie_fantastic_four.webp",
-      "trailerUrl": "https://youtu.be/SCjcDBg_0Ds",
+      "trailerUrl": "https://www.youtube.com/embed/SCjcDBg_0Ds",
       "dates": [
         "21.08.2025",
         "02.08.2025",
@@ -251,6 +253,7 @@
     {
       "id": 3,
       "title": "Çılpaq Silah",
+      "slug": "the-naked-gun",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Akiva Şaffer",
@@ -270,7 +273,7 @@
       "ageLimit": "16+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movie_the_naked_gun.webp",
-      "trailerUrl": "https://youtu.be/Mv4bAQ9PRWU",
+      "trailerUrl": "https://www.youtube.com/embed/Mv4bAQ9PRWU",
       "dates": [
         "16.08.2025",
         "05.08.2025",
@@ -301,6 +304,7 @@
     {
       "id": 4,
       "title": "Pis Uşaqlar 2",
+      "slug": "the-bad-guys-2",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": ["Pyer Perifel", "JP Sans"],
@@ -315,7 +319,7 @@
       "ageLimit": "12+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movies_the_bad_guys_2.webp",
-      "trailerUrl": "https://youtu.be/zwz00_HZkFQ",
+      "trailerUrl": "https://www.youtube.com/embed/zwz00_HZkFQ",
       "dates": [
         "07.08.2025",
         "10.08.2025",
@@ -425,6 +429,7 @@
     {
       "id": 5,
       "title": "Həyəcanlı Cümə 2",
+      "slug": "freakier-friday-2",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Nişa Qanatra",
@@ -439,7 +444,7 @@
       "ageLimit": "14+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movies_freakier_friday.webp",
-      "trailerUrl": "https://youtu.be/fIE0gJnJ00w",
+      "trailerUrl": "https://www.youtube.com/embed/fIE0gJnJ00w",
       "dates": [
         "09.08.2025",
         "13.08.2025",
@@ -541,6 +546,7 @@
     {
       "id": 6,
       "title": "Supermen",
+      "slug": "superman",
       "year": 2024,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Ceyms Gann",
@@ -555,7 +561,7 @@
       "ageLimit": "16+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movie_superman.webp",
-      "trailerUrl": "https://youtu.be/tNioP6vFU4I",
+      "trailerUrl": "https://www.youtube.com/embed/tNioP6vFU4I",
       "dates": [
         "11.08.2025",
         "17.08.2025",
@@ -634,6 +640,7 @@
     {
       "id": 7,
       "title": "Yura Dövrü Dünyası: Dirçəliş",
+      "slug": "jurassic-world-resurgence",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Qaret Edvards",
@@ -648,7 +655,7 @@
       "ageLimit": "16+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movie_jurassic_world.webp",
-      "trailerUrl": "https://youtu.be/xfKZnrcUWKY",
+      "trailerUrl": "https://www.youtube.com/embed/xfKZnrcUWKY",
       "dates": [
         "06.08.2025",
         "01.08.2025",
@@ -686,6 +693,7 @@
     {
       "id": 8,
       "title": "Onu ölülərdən qaytar",
+      "slug": "bring-her-back",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": ["Deni Filippo", "Maykl Filippo"],
@@ -700,7 +708,7 @@
       "ageLimit": "18+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movie_bring_her_Back.webp",
-      "trailerUrl": "https://youtu.be/vyXBfKVEgyk",
+      "trailerUrl": "https://www.youtube.com/embed/ykkmB-AAVRU",
       "dates": [
         "05.08.2025",
         "09.08.2025",
@@ -730,6 +738,7 @@
     {
       "id": 9,
       "title": "F1",
+      "slug": "f1",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Cozeff Kosinski",
@@ -744,7 +753,7 @@
       "ageLimit": "16+",
       "inVision": true,
       "posterUrl": "/src/assets/images/movies/movie_f1.webp",
-      "trailerUrl": "https://youtu.be/TOWNc5IgoIIk",
+      "trailerUrl": "https://www.youtube.com/embed/TOWNc5IgoII",
       "dates": [
         "04.08.2025",
         "14.08.2025",
@@ -783,6 +792,7 @@
     {
       "id": 10,
       "title": "Qorxunun Zirvəsində",
+      "slug": "the-occupant",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Hyuqo Keyzer",
@@ -797,13 +807,14 @@
       "ageLimit": "16+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_the_occupant.webp",
-      "trailerUrl": "https://youtu.be/EaS1BuJirH8",
+      "trailerUrl": "https://www.youtube.com/embed/EaS1BuJirH8",
       "dates": null,
       "times": null
     },
     {
       "id": 11,
       "title": "Heç kim 2",
+      "slug": "nobody-2",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Timo Tyadzhanto",
@@ -818,13 +829,14 @@
       "ageLimit": "18+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_nobody_2.webp",
-      "trailerUrl": "https://youtu.be/rk1wYLBgiHc",
+      "trailerUrl": "https://www.youtube.com/embed/rk1wYLBgiHc",
       "dates": null,
       "times": null
     },
     {
       "id": 12,
       "title": "Birlikdə",
+      "slug": "together",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Maykl Şenks",
@@ -839,13 +851,14 @@
       "ageLimit": "18+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_together.webp",
-      "trailerUrl": "https://youtu.be/cg5t_XOFtMk",
+      "trailerUrl": "https://www.youtube.com/embed/cg5t_XOFtMk",
       "dates": null,
       "times": null
     },
     {
       "id": 13,
       "title": "Dispetçer",
+      "slug": "relay",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Devid Makkenzi",
@@ -860,13 +873,14 @@
       "ageLimit": "18+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movies_relay.webp",
-      "trailerUrl": "https://youtu.be/uqXwpyZaZoo",
+      "trailerUrl": "https://www.youtube.com/embed/uqXwpyZaZoo",
       "dates": null,
       "times": null
     },
     {
       "id": 14,
       "title": "Məskən",
+      "slug": "abode",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Ceyms DeMonako",
@@ -881,13 +895,14 @@
       "ageLimit": "18+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_the_home.webp",
-      "trailerUrl": "https://youtu.be/22iriTHWRIc",
+      "trailerUrl": "https://www.youtube.com/embed/22iriTHWRIc",
       "dates": null,
       "times": null
     },
     {
       "id": 15,
       "title": "Rouzun Həyat Yoldaşları",
+      "slug": "the-roses",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Cey Rauch",
@@ -902,13 +917,14 @@
       "ageLimit": "18+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_the_roses.webp",
-      "trailerUrl": "https://youtu.be/8FubR-lLfXo",
+      "trailerUrl": "https://www.youtube.com/embed/8FubR-lLfXo",
       "dates": null,
       "times": null
     },
     {
       "id": 16,
       "title": "Heyvan Qatarı",
+      "slug": "falcon-express",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": ["Benua Daffi", "Jan-Kristian Tassi"],
@@ -923,13 +939,14 @@
       "ageLimit": "12+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_falcon_express.webp",
-      "trailerUrl": "https://youtu.be/3X7fdTCQqHE",
+      "trailerUrl": "https://www.youtube.com/embed/3X7fdTCQqHE",
       "dates": null,
       "times": null
     },
     {
       "id": 17,
       "title": "Demon Slayer: Infinity Castle",
+      "slug": "demon-slayer-infinity-castle",
       "year": 2025,
       "country": "Yaponiya",
       "director": "Haruo Sotodzaki",
@@ -944,13 +961,14 @@
       "ageLimit": "16+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_demon_slayer.webp",
-      "trailerUrl": "https://youtu.be/x7uLutVRBfI",
+      "trailerUrl": "https://www.youtube.com/embed/x7uLutVRBfI",
       "dates": null,
       "times": null
     },
     {
       "id": 18,
       "title": "Böyük, Cəsur və Gözəl Səyahət",
+      "slug": "a-big-bold-beautiful-journey",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Koqonada",
@@ -965,13 +983,14 @@
       "ageLimit": "16+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_a_big_bold_beautiful_journey.webp",
-      "trailerUrl": "https://youtu.be/FmJaMBUUgXw",
+      "trailerUrl": "https://www.youtube.com/embed/FmJaMBUUgXw",
       "dates": null,
       "times": null
     },
     {
       "id": 19,
       "title": "Tron: Ares",
+      "slug": "tron-ares",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Yoakim Rönning",
@@ -986,13 +1005,14 @@
       "ageLimit": "16+",
       "inVision": false,
       "posterUrl": "/src/assets/images/movies/movie_tron.webp",
-      "trailerUrl": "https://youtu.be/hiDrv3Eul2k",
+      "trailerUrl": "https://www.youtube.com/embed/hiDrv3Eul2k",
       "dates": null,
       "times": null
     },
     {
       "id": 20,
       "title": "Mortal Kombat II",
+      "slug": "mortal-kombat-2",
       "year": 2023,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Saymon Makkuoyd",
@@ -1014,6 +1034,7 @@
     {
       "id": 21,
       "title": "Avatar: Alov və Kül",
+      "slug": "avatar-fire-and-ash",
       "year": 2025,
       "country": "Amerika Birləşmiş Ştatları",
       "director": "Ceyms Kemeron",

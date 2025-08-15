@@ -1,18 +1,14 @@
 import { useMemo, useState } from "react";
-
-import CinemaDropdown from "../common/Dropdown/CinemaDropdown";
-import LanguageDropdown from "../common/Dropdown/LanguageDropdown";
-import DatePickerDropdown from "../common/Dropdown/DatePickerDropdown";
-
-import TableSchedule from "../../components/common/TableSchedule";
-
+import FilterBar from "../common/FilterBar";
 import { LANGUAGE_SHORT_MAP } from "../../helpers/constants";
-import { sortByTime, resetFilters, formatDate } from "../../helpers/helper";
+import { sortByTime, formatDate } from "../../helpers/helper";
+import TableSchedule from "../../components/common/TableSchedule";
 
 const Schedule = ({ data }) => {
   const [language, setLanguage] = useState("");
   const [cinema, setCinema] = useState("");
   const [date, setDate] = useState(null);
+
   const formattedDate = date ? formatDate(date.$d || date) : "";
 
   const filterDataForDate = formattedDate
@@ -36,20 +32,14 @@ const Schedule = ({ data }) => {
 
   return (
     <>
-      <div className="flex items-center gap-6 my-3 max-md:flex-wrap">
-        <LanguageDropdown setLanguage={setLanguage} language={language} />
-        <CinemaDropdown setCinema={setCinema} cinema={cinema} />
-        <DatePickerDropdown setDate={setDate} date={date} />
-
-        {(language || cinema || date) && (
-          <button
-            onClick={() => resetFilters(setLanguage, setCinema, setDate)}
-            className="max-md:w-full text-center max-md:py-2 border border-red-500 rounded px-4 py-3 text-red-500 hover:bg-red-500 hover:text-white transition-colors"
-          >
-            Təmizlə
-          </button>
-        )}
-      </div>
+      <FilterBar
+        language={language}
+        setLanguage={setLanguage}
+        cinema={cinema}
+        setCinema={setCinema}
+        date={date}
+        setDate={setDate}
+      />
 
       <div className="w-full my-10">
         {sortedTimes.length > 0 ? (

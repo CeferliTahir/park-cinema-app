@@ -19,3 +19,12 @@ export const sortByTime = (a, b) => {
   const [bh, bm] = b.time.split(":").map(Number);
   return ah * 60 + am - (bh * 60 + bm);
 };
+
+export const formatValue = (value, separator = ", ") => {
+  if (!value) return "";
+  if (Array.isArray(value)) {
+    const uniqueValues = [...new Set(value)];
+    return uniqueValues.join(separator);
+  }
+  return value;
+};

@@ -5,6 +5,7 @@ import Header from "./components/Header/Header";
 import Home from "./pages/Home";
 import Payment from "./pages/Payment";
 import Footer from "./components/Footer/Footer";
+import Details from "./pages/Details";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/payment" element={<Payment />} />
+        <Route path="/movies-details/:slug" element={<Details />} />
       </Routes>
       <Footer />
     </>
