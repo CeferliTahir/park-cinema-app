@@ -19,7 +19,7 @@ const TableSchedule = ({ data }) => {
       <table className="w-full border-0001 border-collapse">
         <tbody className="bg-0005 transition">
           {selectedData.map(
-            ({ title, time, cinema, hall, lang, sub }, index) => {
+            ({ id, title, slug, time, cinema, hall, lang, sub }, index) => {
               return (
                 <tr
                   key={startIndex + index}
@@ -47,7 +47,7 @@ const TableSchedule = ({ data }) => {
                   <td className="py-4 px-2 border-b border-white text-sm max-sm:p-1 max-sm:text-[12px] max-md:hidden">
                     <div className="flex justify-center items-center gap-2">
                       <span>
-                        {cinema} | {hall}
+                        {cinema} | Zal: {hall}
                       </span>
                     </div>
                   </td>
@@ -71,7 +71,10 @@ const TableSchedule = ({ data }) => {
                   </td>
 
                   <td className="py-4 px-2 border-b border-white max-sm:p-1">
-                    <Link to="/" className="flex justify-end">
+                    <Link
+                      to={`/movies-details/${slug}/ticket/${id}`}
+                      className="flex justify-end"
+                    >
                       <button className="flex items-center justify-center cursor-pointer opacity-65 hover:opacity-100 duration-200 rounded-[20px] h-[36px] px-4 bg-[#C02020] text-white text-sm hover:bg-[#A81A1A] transition md:w-[160px] w-[100px] max-sm:w-[60px] max-sm:p-0 max-sm:text-[12px] max-sm:leading-3">
                         Bilet Al
                       </button>

@@ -28,31 +28,39 @@
       ],
       "times": [
         {
+          "id": "g3p8n6v1t7",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "16:00",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "t1z4j9d5y8",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "16:10",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "b2q7h0m3x9",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "16:20",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "n8v5k4r1t2",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "17:00",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -60,39 +68,49 @@
           "sub": null
         },
         {
+          "id": "z3y0p6c9w5",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "17:00",
           "cinema": "Metro Park",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "f1j8m4q2n7",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "18:20",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "ENG",
           "sub": null
         },
         {
+          "id": "l9x6t5v0k8",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "18:30",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "r2d8g1h7m3",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "18:40",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "y7c9n2w4p0",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "19:20",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -100,15 +118,19 @@
           "sub": null
         },
         {
+          "id": "k7p2d9x4m1",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "19:20",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "z3h8q5n0v6",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "19:30",
           "cinema": "Park Bulvar",
           "hall": "VIP Hall",
@@ -116,10 +138,12 @@
           "sub": "AZE"
         },
         {
+          "id": "t9y1c4w7b2",
           "title": "Silahlar",
+          "slug": "weapons",
           "time": "20:40",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": "AZE"
         }
@@ -153,31 +177,39 @@
       ],
       "times": [
         {
+          "id": "o1p5k9d6z4",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "15:40",
           "cinema": "Flame Towers",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "s8y0m2l7q9",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "15:50",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "e2w6h4r9t1",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "16:30",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "d4z8j7n3y0",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "16:40",
           "cinema": "Park Bulvar",
           "hall": "IMAX",
@@ -185,39 +217,49 @@
           "sub": null
         },
         {
+          "id": "m9v2g6q1x7",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "17:40",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "p3n8l2y5j0",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "17:50",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "ENG",
           "sub": null
         },
         {
+          "id": "r6t9b1z4w8",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "18:00",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "k7m5q0d8h3",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "18:40",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "v9f2y6x1n5",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "18:50",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -225,15 +267,19 @@
           "sub": null
         },
         {
+          "id": "c8j7z4q2k6",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "19:50",
           "cinema": "Flame Towers",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "w0p9h3m6t8",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "22:30",
           "cinema": "Park Bulvar",
           "hall": "VIP Hall",
@@ -241,10 +287,12 @@
           "sub": null
         },
         {
+          "id": "q5d7l1r8z2",
           "title": "Fantastik Dördlük: İlk addımlar",
+          "slug": "the-fantastic-four-first-steps",
           "time": "23:10",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         }
@@ -283,19 +331,23 @@
       ],
       "times": [
         {
+          "id": "z7h9x4m2v1",
           "title": "Çılpaq Silah",
+          "slug": "the-naked-gun",
           "time": "16:00",
           "cinema": "Sevinc Mall",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": "AZE"
         },
 
         {
+          "id": "u6t8b3q0n7",
           "title": "Çılpaq Silah",
+          "slug": "the-naked-gun",
           "time": "19:30",
           "cinema": "Sevinc Mall",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": "AZE"
         }
@@ -329,31 +381,39 @@
       ],
       "times": [
         {
+          "id": "v1f7n3j6p5",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "15:50",
           "cinema": "Flame Towers",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "b6r9d2h8k4",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "16:10",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "t3y7q1m2l9",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "17:00",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "w5n0p8z6x1",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "17:10",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -361,39 +421,49 @@
           "sub": null
         },
         {
+          "id": "c9h4j7v2d8",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "17:30",
           "cinema": "Sevinc Mall",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "y6k3m0q9n5",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "17:50",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "ENG",
           "sub": null
         },
         {
+          "id": "r8d1t4z7p3",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "18:00",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "n2j6y9h3m7",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "18:10",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "l0x9q8c2v6",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "19:00",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -401,15 +471,19 @@
           "sub": null
         },
         {
+          "id": "g5d7m4p1k9",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "19:50",
           "cinema": "Sevinc Mall",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "f9y2t7w3z8",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "20:10",
           "cinema": "Park Bulvar",
           "hall": "VIP Hall",
@@ -417,10 +491,12 @@
           "sub": null
         },
         {
+          "id": "k3p1r6d0n4",
           "title": "Pis Uşaqlar 2",
+          "slug": "the-bad-guys-2",
           "time": "22:10",
           "cinema": "Flame Towers",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         }
@@ -454,31 +530,39 @@
       ],
       "times": [
         {
+          "id": "x8c0t2z9y4",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "17:00",
           "cinema": "Metro Park",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "m7p5s9k3r2",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "17:10",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "h2n8y4c1z6",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "17:30",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "j9d6l3v0b8",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "19:00",
           "cinema": "Park Bulvar",
           "hall": "IMAX",
@@ -486,39 +570,49 @@
           "sub": null
         },
         {
+          "id": "q7w2e5r9t3",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "19:30",
           "cinema": "Metro Park",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "z4p1m8x6c2",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "17:50",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "ENG",
           "sub": null
         },
         {
+          "id": "a3f9k2d7q1",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "21:00",
           "cinema": "Park Bulvar",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "z8h3x7m0v5",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "21:10",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "k6p4r9d2n1",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "21:30",
           "cinema": "Park Bulvar",
           "hall": "IMAX",
@@ -526,15 +620,19 @@
           "sub": null
         },
         {
+          "id": "f7y1t8w0z3",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "23:00",
           "cinema": "Metro Park",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "g4d9m5p2k6",
           "title": "Həyəcanlı Cümə 2",
+          "slug": "freakier-friday-2",
           "time": "23:10",
           "cinema": "Park Bulvar",
           "hall": "VIP Hall",
@@ -571,31 +669,39 @@
       ],
       "times": [
         {
+          "id": "b9r2d4h6k8",
           "title": "Supermen",
+          "slug": "superman",
           "time": "16:20",
           "cinema": "Flame Towers",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "t4y9q1m7l2",
           "title": "Supermen",
+          "slug": "superman",
           "time": "18:40",
           "cinema": "Metro Park",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "w8n3p6z5x0",
           "title": "Supermen",
+          "slug": "superman",
           "time": "20:50",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "c2h9j7v1d5",
           "title": "Supermen",
+          "slug": "superman",
           "time": "21:00",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -604,31 +710,39 @@
         },
 
         {
+          "id": "y3k6m8q0n2",
           "title": "Supermen",
+          "slug": "superman",
           "time": "21:20",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "ENG",
           "sub": null
         },
         {
+          "id": "r5d8t1z4p9",
           "title": "Supermen",
+          "slug": "superman",
           "time": "23:20",
           "cinema": "Metro Park",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "n0j3y7h6m4",
           "title": "Supermen",
+          "slug": "superman",
           "time": "23:30",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "TUR",
           "sub": null
         },
         {
+          "id": "l2x8q9c1v7",
           "title": "Supermen",
+          "slug": "superman",
           "time": "23:40",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -665,26 +779,32 @@
       ],
       "times": [
         {
+          "id": "m5p9s2k7r3",
           "title": "Yura Dövrü Dünyası: Dirçəliş",
+          "slug": "jurassic-world-resurgence",
           "time": "21:00",
           "cinema": "Flame Towers",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "x0c4t8z2y9",
           "title": "Yura Dövrü Dünyası: Dirçəliş",
+          "slug": "jurassic-world-resurgence",
           "time": "21:10",
           "cinema": "Sevinc Mall",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": null
         },
         {
+          "id": "v7f1n6j3p2",
           "title": "Yura Dövrü Dünyası: Dirçəliş",
+          "slug": "jurassic-world-resurgence",
           "time": "21:30",
           "cinema": "Metro Park",
-          "hall": "Zal: 5",
+          "hall": "5",
           "lang": "RUS",
           "sub": null
         }
@@ -718,18 +838,22 @@
       ],
       "times": [
         {
+          "id": "h1n4y8c3z7",
           "title": "Onu ölülərdən qaytar",
+          "slug": "bring-her-back",
           "time": "17:40",
           "cinema": "Flame Towers",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": "AZE"
         },
         {
+          "id": "j6d3l0v9b8",
           "title": "Onu ölülərdən qaytar",
+          "slug": "bring-her-back",
           "time": "17:50",
           "cinema": "Metro Park",
-          "hall": "Zal: 1",
+          "hall": "1",
           "lang": "RUS",
           "sub": null
         }
@@ -763,16 +887,20 @@
       ],
       "times": [
         {
+          "id": "a8f3k9d2q1",
           "title": "F1",
+          "slug": "f1",
           "time": "21:50",
           "cinema": "Flame Towers",
-          "hall": "Zal: Saloglu",
+          "hall": "Saloglu",
           "lang": "RUS",
           "sub": "AZE"
         },
 
         {
+          "id": "z7p4m2x8c6",
           "title": "F1",
+          "slug": "f1",
           "time": "23:40",
           "cinema": "Flame Towers",
           "hall": "IMAX",
@@ -780,10 +908,12 @@
           "sub": "AZE"
         },
         {
+          "id": "q2w9e7r1t5",
           "title": "F1",
+          "slug": "f1",
           "time": "23:55",
           "cinema": "Flame Towers",
-          "hall": "Zal: 4",
+          "hall": "4",
           "lang": "RUS",
           "sub": "AZE"
         }
